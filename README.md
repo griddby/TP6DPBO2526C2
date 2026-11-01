@@ -225,16 +225,8 @@ Menampilkan halaman awal permainan yang terdiri dari background, logo Flappy Bir
 
 Screen recording berikut menunjukkan keseluruhan proses permainan, mulai dari Main Menu, permainan berlangsung, perhitungan skor, hingga kondisi Game Over dan fitur restart.
 
-**Gameplay Flappy Bird**
 
-## 6. Cara Menjalankan Program
-
-1. Pastikan Java Development Kit (JDK) sudah terpasang.
-2. Buka project Flappy Bird menggunakan IDE yang mendukung Java.
-3. Pastikan seluruh file gambar, font, dan audio berada pada folder `assets`.
-4. Pastikan seluruh file Java berada pada package atau source folder yang sesuai.
-5. Jalankan file `App.java`.
-6. Tekan tombol START untuk memulai permainan.
+https://github.com/user-attachments/assets/a3dfc1a2-0bf8-4f37-b011-482fd4a98b64
 
 ---
 
