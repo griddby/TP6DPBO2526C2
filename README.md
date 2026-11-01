@@ -223,7 +223,12 @@ Menampilkan halaman awal permainan yang terdiri dari background, logo Flappy Bir
 
 **2. Screen Recording**
 
+https://github.com/user-attachments/assets/e585a8a4-887a-4a19-9f4b-eb9161c8bd9c
+
+
 Screen recording berikut menunjukkan keseluruhan proses permainan, mulai dari Main Menu, permainan berlangsung, perhitungan skor, hingga kondisi Game Over dan fitur restart.
+
+
 
 **Gameplay Flappy Bird**
 
